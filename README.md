@@ -1,2 +1,2 @@
 # simple-algoritms
-try some basic algoritms on java
+trying some basic algoritms on java
